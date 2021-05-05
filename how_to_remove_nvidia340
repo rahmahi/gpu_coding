@@ -1,0 +1,5 @@
+to remove "nvidia-340" try to purge it by-
+"sudo dpkg -P nvidia-340"
+
+then remove all the NVIDIA by-
+sudo apt purge nvidia*

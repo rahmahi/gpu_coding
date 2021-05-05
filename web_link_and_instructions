@@ -1,0 +1,6 @@
+https://developer.nvidia.com/magma
+
+
+comoile their bitbucket upstream. It works best with newer versions of cuda
+
+The linear algebra part on the nvidia gpu using scikit-cuda and magma
